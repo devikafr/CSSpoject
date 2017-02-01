@@ -1,0 +1,215 @@
+
+    #envelope{
+      font-size: 0.65em;
+        /*border-left:1px solid black;*/
+    }
+    #phone{
+      font-size: 0.75em;
+    }
+    .top-bar{
+      border: 1px solid;
+      border-color: #e1e1e1;
+      margin-top: -10px;
+      margin-bottom:0;
+      /*padding-bottom: -60px;*/
+
+    }
+    .top-bar li{
+      display: inline-block;
+      border-right: 1px solid;
+      border-left: 1px solid;
+      border-color: #e1e1e1;
+      font-family: 'fontello-social';
+      padding-bottom: 0;
+    }
+    .navbar-header   {
+      font-family: 'fontello-social';
+      font-size: 12px;
+      text-transform: uppercase;
+      color: #f0f0f0 !important;
+      padding-top: 0;
+
+    }
+    .navbar-right {
+      /*margin-top: 20px;*/
+      font-size: 12px;
+      font-weight: 800;
+
+    }
+
+    #bubble{
+      margin-top: -340px;
+      margin-left: -80px;
+    }
+    #woman{
+      padding-top: 130px;
+    }
+    #slider1{
+      background-color: #f3f3f3;
+      width: 100%;
+      height: 100%;
+      background-size:cover;
+    }
+
+    p.main{
+      text-align:center;
+      margin-top: 50px;
+      font-size: 24px;
+      font-family: 'raleway',sans-serif;
+      /*font-family: 'elemis';*/
+      /*font-family: 'raleway light';*/
+        /*color: #404040;*/
+      /*font-weight: 300;*/
+    }
+    p.lead{
+      font-size: 18px;
+      color: #606060;
+      font-weight: bold;
+    }
+    .para{
+      color: #606060;
+      /*margin: 0 0 20px;*/
+
+    }
+    .para1{
+      font-weight: bold;
+      font-size: 16px;
+    }
+    .text{
+      font-size: 14px;
+    }
+
+    #logo {
+      position: absolute;
+
+      /*padding: 0 0 0 60px;*/
+      /*margin-top: 3px;*/
+      color: #e8554e;
+    }
+    div .col-sm-2{
+      position: relative;
+      /*padding: 0 0 0 60px;*/
+      margin-bottom: 40px;
+      /*overflow: hidden !important;*/
+
+    }
+    /*.quote-text{
+      font-size: 15px;
+    }
+    .quote-box{
+      background: #fff;
+      box-shadow: 0 2px 0 rgba(0, 0, 0, 0.08);
+      display: block;
+      margin-top: 1em;
+      margin-bottom: 1em;
+      margin-left: 40px;
+      margin-right: 40px;
+    }
+    #box1{
+      position: absolute;
+      margin-left: 100px;
+
+    }*/
+
+    .blockquote-box{
+      border-right: 5px;
+      margin-bottom: 25px;
+    }
+    .blockquote-box .square{
+      width: 100px;
+      min-height: 50px;
+      margin-right: 22px;
+      text-align: center !important;
+      background-color: #fff;
+      padding: 20px 0;
+      }
+    .carousel-inner > .item > img,
+    .carousel-inner > .item > img{
+      margin: auto;
+      width: 20%;
+    }
+    .image{
+      position: relative;
+    }
+    .text1{
+      position: absolute;
+      top: 100px;
+      left: 0;
+      width: 100%
+
+    }
+    .btn-border{
+      background: none !important;
+      border: 2px solid #ececec;
+    }
+    .fixed-width{
+      width: 170px;
+    }
+
+    .btn{
+    display: inline-block;
+    position: relative;
+    top: -100px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 13px;
+    }
+    div.polaroid {
+    width: 80%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    }
+
+    div.container {
+      text-align: center;
+      padding: 10px 20px;
+    }
+    .container-fluid{
+    background-color: #32393f;
+    height: auto;
+    width: 100%;
+    }
+    .magna{
+
+      display: inline;
+      position: absolute;
+      font-size: 10px;
+      margin-left: 10px;
+    }
+    .magna1{
+      display: inline;
+      position: relative;
+      font-size: 10px;
+      margin-left: 10px;
+
+    }
+    .btn-danger{
+      position: absolute;
+      margin-top: 100px;
+      display: inline;
+      padding: 0 0 3 0px;
+    }
+    .btn-web {
+      padding: 10px 20px;
+      background-color: #333;
+      color: #f1f1f1;
+      border-radius: 0;
+      transition: .2s;
+  }
+  .btn-web:hover, .btn:focus {
+      border: 1px solid #333;
+      background-color: #fff;
+      color: #000;
+  }
+  footer{
+      background-color: #262b2f;
+      padding: 35px 0;
+      color: #ececec;
+  }
+  #mini{
+    margin-left: 40px;
+    border-color: #faaa5e;
+    color: #faaa5e
+
+  }
